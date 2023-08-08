@@ -1,0 +1,31 @@
+.navbar_btn{
+     
+      background-color: forestgreen;
+}
+.btn-1{
+ padding: 11px 24px;
+ border-radius: 21px;
+}
+.bg-dev-1{
+    color: white;
+}
+.bg-dev{
+    color: yellow;
+
+}
+.btn-2{
+    padding:12px 25px;
+    font-size:14px;
+    border-radius: 10px;
+    color: antiquewhite;
+}
+.bg-col{
+    background-color: black;
+}
+.bg-23{
+    border-radius: 9px;
+    background-color: antiquewhite;
+}
+.img-1{
+    height: 45rem;
+}
