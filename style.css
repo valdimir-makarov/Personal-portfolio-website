@@ -29,3 +29,41 @@
 .img-1{
     height: 45rem;
 }
+.color-cards{
+    padding: 25px;
+     background-color: #82b440;
+}
+.cards-img{  border: 1px solid #000;
+    box-sizing: border-box;
+    border-radius: 3px;
+    border-color: black;
+    overflow: content-box;
+    overflow: clip;
+    vertical-align: middle;
+   transition: ease all 0.35s;
+}
+.cards{
+  
+    box-sizing: border-box;
+    
+    border-radius: 10px;
+    width: 30%;
+   background-color:beige;
+    padding: 25px;
+}
+.w35{
+    width: 35rem;
+
+}
+.cards-sec-bg{
+    background-color: #000000;
+}
+.testimonials-box {
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
